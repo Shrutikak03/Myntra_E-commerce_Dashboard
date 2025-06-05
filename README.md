@@ -83,7 +83,7 @@ Products with the best average ratings
 🎯 Supports inventory planning and product strategy.
 
 ## Dashboard
-![Myntra project_page-0004](https://github.com/user-attachments/assets/b739717d-31bd-42ad-afbd-0fcec75eb29a)
+![Myntra project_page-0003](https://github.com/user-attachments/assets/3583d0da-49b9-4387-ab16-18e21bd24bfb)
 
 
 ## 3. Customer Behavior
@@ -100,7 +100,7 @@ Top customers based on order value
 🎯 Helps identify key customer segments and loyalty patterns.
 
 ## Dashboard
-![Myntra project_page-0003](https://github.com/user-attachments/assets/3583d0da-49b9-4387-ab16-18e21bd24bfb)
+![Myntra project_page-0004](https://github.com/user-attachments/assets/b739717d-31bd-42ad-afbd-0fcec75eb29a)
 
 
 
