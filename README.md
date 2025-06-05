@@ -52,7 +52,7 @@ By visualizing structured data with clear KPIs and trends, the project empowers 
 5. What are the top brands by quantity sold?
 
 ## 📄 Dashboard Pages Explained
-   Sales Analysis
+## Sales Analysis
 1. This page provides an overview of sales trends and performance:
 
 2. Monthly, quarterly, and yearly sales trends
@@ -69,7 +69,24 @@ By visualizing structured data with clear KPIs and trends, the project empowers 
 ![Myntra project_page-0002](https://github.com/user-attachments/assets/bcbe7d85-2325-4213-8955-fd5a4c138f4f)
 
 
-2. Customer Behavior
+## 2. Product Analysis
+This section gives insights into product and category-level performance:
+
+Revenue by product category
+
+Most & least sold products
+
+Brand-wise quantity sold
+
+Products with the best average ratings
+
+🎯 Supports inventory planning and product strategy.
+
+## Dashboard
+![Myntra project_page-0004](https://github.com/user-attachments/assets/b739717d-31bd-42ad-afbd-0fcec75eb29a)
+
+
+## 3. Customer Behavior
 This page focuses on customer segmentation and purchase behavior:
 
 Active age groups by order count
@@ -85,22 +102,6 @@ Top customers based on order value
 ## Dashboard
 ![Myntra project_page-0003](https://github.com/user-attachments/assets/3583d0da-49b9-4387-ab16-18e21bd24bfb)
 
-
-3. Product Analysis
-This section gives insights into product and category-level performance:
-
-Revenue by product category
-
-Most & least sold products
-
-Brand-wise quantity sold
-
-Products with the best average ratings
-
-🎯 Supports inventory planning and product strategy.
-
-## Dashboard
-![Myntra project_page-0004](https://github.com/user-attachments/assets/b739717d-31bd-42ad-afbd-0fcec75eb29a)
 
 
 ## 🔍 Project Insights
