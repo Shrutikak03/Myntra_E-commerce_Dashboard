@@ -1,4 +1,4 @@
-# Myntra_E-commerce_Dashboard
+# Myntra_E-commerce_Dashboard ( Interactive Dashboard creation using SQL )
 This project presents a comprehensive Power BI dashboard created using sample e-commerce data, designed to replicate insights a company like Myntra might track. The dashboard helps understand sales trends, customer behavior, and product performance in a dynamic, interactive format.
 ## Project Objective
 The objective of this project is to design an interactive and insightful Power BI dashboard that replicates key metrics and performance indicators for an e-commerce platform like Myntra. The dashboard aims to help business users and stakeholders:
@@ -103,10 +103,18 @@ Products with the best average ratings
 ![Myntra project_page-0004](https://github.com/user-attachments/assets/b739717d-31bd-42ad-afbd-0fcec75eb29a)
 
 
-## ✅ Conclusion
-The Myntra Dashboard project demonstrates the complete workflow of a data analyst — from data extraction and cleaning using SQL, to building an interactive, insight-driven dashboard in Power BI. By answering real-world business questions related to sales performance, customer behavior, and product analysis, the project showcases strong analytical thinking, data visualization skills, and the ability to translate raw data into actionable insights.
+## 🔍 Project Insights
+After analyzing the Myntra dataset and visualizing it through Power BI, the following key insights were uncovered:
 
+Sales Trends: Revenue peaks were observed during certain months, indicating seasonal shopping patterns. Top-performing cities contributed significantly to total sales.
 
+Customer Behavior: A major portion of orders came from repeat customers, highlighting customer loyalty. The most active age group ranged between 25–34 years.
+
+Product Performance: A few categories and products consistently drove the highest revenue, while some had no sales, indicating areas of improvement in inventory or promotion.
+
+Delivery Efficiency: Most orders were delivered within 3–5 days, but outliers revealed occasional delays that may affect customer satisfaction.
+
+Gender Contribution: Female customers generated slightly more revenue, guiding future marketing efforts toward targeted campaigns.
 
 
 
