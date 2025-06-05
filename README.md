@@ -16,7 +16,7 @@ By visualizing structured data with clear KPIs and trends, the project empowers 
 ## Dataset Used
 - <a href="https://github.com/Shrutikak03/Myntra_E-commerce_Dashboard/blob/main/Myntra_Mock_Dataset.xlsx">Dataset</a>
 
-📌 ## Myntra Dashboard - Analytical Questions
+## 📌 Myntra Dashboard - Analytical Questions
 
 🔹 Sales Analysis
 1. What is the total sales and profit over time (monthly, quarterly, yearly)?
