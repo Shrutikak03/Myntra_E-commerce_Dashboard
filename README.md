@@ -12,3 +12,5 @@ The objective of this project is to design an interactive and insightful Power B
 🚀 Drive Data-Driven Decisions for marketing, inventory, and customer engagement strategies
 
 By visualizing structured data with clear KPIs and trends, the project empowers decision-makers to optimize operations, boost revenue, and enhance the overall customer experience.
+
+## Dataset Used
