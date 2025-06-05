@@ -66,7 +66,8 @@ By visualizing structured data with clear KPIs and trends, the project empowers 
 🎯 Helps understand business growth and regional performance.
 
 ## Dashboard
-![myntra new (2)-pages_page-0002](https://github.com/user-attachments/assets/d14f0add-fedd-4a0f-89b7-f3ac628a00b5)
+![Myntra project_page-0002](https://github.com/user-attachments/assets/bcbe7d85-2325-4213-8955-fd5a4c138f4f)
+
 
 2. Customer Behavior
 This page focuses on customer segmentation and purchase behavior:
@@ -82,7 +83,8 @@ Top customers based on order value
 🎯 Helps identify key customer segments and loyalty patterns.
 
 ## Dashboard
-![Myntra project_page-0003](https://github.com/user-attachments/assets/0b102673-6bc3-4c29-8516-f5c31218b394)
+![Myntra project_page-0003](https://github.com/user-attachments/assets/3583d0da-49b9-4387-ab16-18e21bd24bfb)
+
 
 3. Product Analysis
 This section gives insights into product and category-level performance:
@@ -98,9 +100,11 @@ Products with the best average ratings
 🎯 Supports inventory planning and product strategy.
 
 ## Dashboard
-![myntra new (2)-pages_page-0004](https://github.com/user-attachments/assets/b8008da0-1a2d-4e56-968f-43fedd36b44c)
+![Myntra project_page-0004](https://github.com/user-attachments/assets/b739717d-31bd-42ad-afbd-0fcec75eb29a)
 
 
+## ✅ Conclusion
+The Myntra Dashboard project demonstrates the complete workflow of a data analyst — from data extraction and cleaning using SQL, to building an interactive, insight-driven dashboard in Power BI. By answering real-world business questions related to sales performance, customer behavior, and product analysis, the project showcases strong analytical thinking, data visualization skills, and the ability to translate raw data into actionable insights.
 
 
 
