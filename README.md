@@ -52,19 +52,30 @@ By visualizing structured data with clear KPIs and trends, the project empowers 
 5. What are the top brands by quantity sold?
 
 ## 📄 Dashboard Pages Explained
-1. Sales Analysis
-This page provides an overview of sales trends and performance:
+   Sales Analysis
+1. This page provides an overview of sales trends and performance:
 
-Monthly, quarterly, and yearly sales trends
+2. Monthly, quarterly, and yearly sales trends
 
-Top 5 cities by total sales
+3. Top 5 cities by total sales
 
-High-level KPIs: Total Sales, Orders, Profit
+4. High-level KPIs: Total Sales, Orders, Profit
 
-Top & bottom selling products
+5. Top & bottom selling products
 
 🎯 Helps understand business growth and regional performance. - <a href="https://github.com/Shrutikak03/Myntra_E-commerce_Dashboard/blob/main/Myntra%20project_page-0002.jpg">View Dashboard</a>
 
+## Process
+🧹 Data Cleaning Process Using SQL
+1. Remove Duplicates
+2. Handle NULL or Missing Values
+3. Standardize Text Format
+4. Remove Invalid or Outlier Data
+5. Check Data Relationships (Joins)
+6. Create Cleaned Views or Tables
+
+## Dashboard
+![myntra new (2)-pages_page-0002](https://github.com/user-attachments/assets/d14f0add-fedd-4a0f-89b7-f3ac628a00b5)
 
 
 
