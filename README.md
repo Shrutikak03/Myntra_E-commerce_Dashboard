@@ -50,3 +50,29 @@ By visualizing structured data with clear KPIs and trends, the project empowers 
 4. What is the average rating per product?
 
 5. What are the top brands by quantity sold?
+
+## 📄 Dashboard Pages Explained
+1. Sales Analysis Page
+The Sales Analysis page gives a complete view of Myntra's overall sales performance. It highlights key performance indicators such as total sales, number of orders, and total profit, helping viewers quickly understand business health. It also breaks down sales trends over different time periods — monthly, quarterly, and yearly — to identify seasonal patterns or business growth. In addition, it shows which cities contribute the most to sales and which products are performing best and worst in terms of revenue. This page serves as a foundation for tracking financial performance and identifying geographic and product-based opportunities.
+
+## Dashboard
+- <a href="https://github.com/Shrutikak03/Myntra_E-commerce_Dashboard/blob/main/Myntra%20project_page-0002.jpg">View Dashboard</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
